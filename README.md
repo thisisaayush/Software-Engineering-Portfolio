@@ -1,5 +1,3 @@
-# 08. EngineeringPortfolio.Web
-
 # Engineering Portfolio – ASP.NET MVC
 
 ## Overview
